@@ -1,0 +1,6 @@
+C:\Users\Technologist\Documents\GitHub\Week1Solutions\LoopingOverStrings\LoopingOverStrings\bin\Debug\LoopingOverStrings.exe.config
+C:\Users\Technologist\Documents\GitHub\Week1Solutions\LoopingOverStrings\LoopingOverStrings\bin\Debug\LoopingOverStrings.exe
+C:\Users\Technologist\Documents\GitHub\Week1Solutions\LoopingOverStrings\LoopingOverStrings\bin\Debug\LoopingOverStrings.pdb
+C:\Users\Technologist\Documents\GitHub\Week1Solutions\LoopingOverStrings\LoopingOverStrings\obj\Debug\LoopingOverStrings.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\Week1Solutions\LoopingOverStrings\LoopingOverStrings\obj\Debug\LoopingOverStrings.exe
+C:\Users\Technologist\Documents\GitHub\Week1Solutions\LoopingOverStrings\LoopingOverStrings\obj\Debug\LoopingOverStrings.pdb

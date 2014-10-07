@@ -28,7 +28,7 @@ namespace FunWithLists
             //Another EASIER way of printing out an array
             Console.WriteLine(string.Join(", ", myMenu));
 
-            //Loop through the list again to make Twix pop in our list
+            //Loop through the list again to make Twix pop in our list 
             for (int i = 0; i < myMenu.Count; i++)
             {
                 string item = myMenu[i];
